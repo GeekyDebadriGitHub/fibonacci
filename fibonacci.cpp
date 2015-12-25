@@ -1,7 +1,7 @@
 #include <iostream>
 #include "fibonacci.h"
 
-long long fibonacci(long long n){
+int fibonacci(int n){
   if (n <=1){
     return n;
   }

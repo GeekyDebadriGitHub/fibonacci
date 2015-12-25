@@ -1,3 +1,3 @@
 #include <iostream>
 
-long long fibonacci(long long);
+int fibonacci(int);
